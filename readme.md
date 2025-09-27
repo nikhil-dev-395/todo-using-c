@@ -1,11 +1,8 @@
-# steps to complete
 
-1. Add Todo
-2. List Todos
-3. Update Todo
-4. Delete Todo
-5. Mark Todo as Done
-6. Exit
+# learning
 
-
-### note : currently i dont know about makefile , when i get experience with that i will add that
+[-] make file
+[-] folder structure
+[-] basic json and crud operations work
+[-] 
+[steps](./docs/steps.md)
