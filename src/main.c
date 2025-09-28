@@ -6,12 +6,14 @@ int main()
     char todo[100];
     do
     {
-        /* code */
         printf("enter your todo here : \n");
         fgets(todo, sizeof(todo), stdin);
     } while (strlen(todo) == 0);
 
-    printf("\n  todo :  %s", todo);
-
+    //  now we have todo
+    /**
+     * we need to add it on json
+     */
+  
     return 0;
 }
